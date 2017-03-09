@@ -3,6 +3,7 @@ Windows 10 で選択された項目の設定画面を開く
 
 
 設定の項目名 | コマンドURI
+--- | ---
 設定のランディング ページ | ms-settings:
 ディスプレイ | ms-settings:screenrotation
 通知とアクション | ms-settings:notifications
